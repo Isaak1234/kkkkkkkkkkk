@@ -1,0 +1,21 @@
+body {
+    text-align: center; /* Centraliza todo o conteúdo */
+    background-color: #f0f0f0; /* Cinza claro */
+    color: #4a4a4a; /* Cinza escuro */
+    font-family: Arial, sans-serif; /* Fonte minimalista */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.grande {
+    font-size: 32px; /* Aumenta a fonte da primeira frase */
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px; /* Aumenta a fonte do parágrafo */
+}
